@@ -1,0 +1,15 @@
+*.gradle
+gradlew
+*.gradlew
+gradle.*
+gradlew.*
+*.build
+settings.*
+local.properties
+/local.properties
+/.idea
+/idea
+/gradle
+.DS_Store
+build*
+/build
